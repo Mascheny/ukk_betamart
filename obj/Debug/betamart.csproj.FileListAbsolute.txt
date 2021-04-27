@@ -1,0 +1,11 @@
+E:\Faathir\KELAS XII\ukk\betamart\betamart\bin\Debug\mydb.accdb
+E:\Faathir\KELAS XII\ukk\betamart\betamart\bin\Debug\betamart.exe.config
+E:\Faathir\KELAS XII\ukk\betamart\betamart\bin\Debug\betamart.exe
+E:\Faathir\KELAS XII\ukk\betamart\betamart\bin\Debug\betamart.pdb
+E:\Faathir\KELAS XII\ukk\betamart\betamart\obj\Debug\betamart.BetaMart.resources
+E:\Faathir\KELAS XII\ukk\betamart\betamart\obj\Debug\betamart.Properties.Resources.resources
+E:\Faathir\KELAS XII\ukk\betamart\betamart\obj\Debug\betamart.csproj.GenerateResource.cache
+E:\Faathir\KELAS XII\ukk\betamart\betamart\obj\Debug\betamart.csproj.CoreCompileInputs.cache
+E:\Faathir\KELAS XII\ukk\betamart\betamart\obj\Debug\betamart.exe
+E:\Faathir\KELAS XII\ukk\betamart\betamart\obj\Debug\betamart.pdb
+E:\Faathir\KELAS XII\ukk\betamart\betamart\obj\Debug\betamart.csprojAssemblyReference.cache
